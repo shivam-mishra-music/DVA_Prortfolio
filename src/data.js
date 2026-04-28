@@ -14,7 +14,7 @@ const projects = [
     description: "Interactive analytics dashboard built to examine hotel booking demand, cancellation behavior, customer segments, seasonal trends, and revenue performance. Features booking patterns, lead time analysis, market segment insights, guest behavior tracking, and occupancy-focused decision support.",
     image: `${base}Hotel_booking.png`,
     tags: ["Python", "Jupyter", "Machine Learning", "Tableau"],
-    github: "https://github.com/Rana-NST-RU/Hotel-Booking-Analytics",
+    github: "https://github.com/Rana-NST-RU/E_G6_HotelBookingDemandAnalysis",
     live: "https://public.tableau.com/views/HotelBookingDemand_17773051307830/DASHBOARD1EXECUTIVEOVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
   },
   {
