@@ -6,8 +6,8 @@ export default function Sidebar() {
         alt="Profile"
         className="sidebar-avatar"
       />
-      <h1 className="sidebar-name">Ranajeet Roy</h1>
-      <p className="sidebar-username">Rana-NST-RU</p>
+      <h1 className="sidebar-name">Shivam Mishra</h1>
+      <p className="sidebar-username">shivam-mishra-music</p>
       <p className="sidebar-bio">
         I transform complex data into clear, actionable insights through interactive dashboards and analytical storytelling. As a Data Visualization Analyst, I specialize in Tableau, SQL, Excel, and Python to build impactful solutions for fraud analytics, risk monitoring, customer insights, and business performance. I focus on uncovering trends, detecting anomalies, and designing dashboards that help stakeholders make faster, smarter decisions.
       </p>
@@ -25,13 +25,13 @@ export default function Sidebar() {
           <svg viewBox="0 0 16 16" width="16" height="16" fill="#8b949e">
             <path d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5C0 2.784.784 2 1.75 2zM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V5.809L8.38 9.397a.75.75 0 01-.76 0L1.5 5.809v6.442zm13-8.181v-.32a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25v.32L8 7.88z" />
           </svg>
-          <a href="mailto:ranajeet.roy2024@nst.rishihood.edu.in">ranajeet.roy2024@nst.rishihood.edu.in</a>
+          <a href="mailto:shivammishra.an5@gmail.com">shivammishra.an5@gmail.com</a>
         </div>
         <div className="sidebar-info-item">
           <svg viewBox="0 0 16 16" width="16" height="16" fill="#8b949e">
             <path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" />
           </svg>
-          <a href="https://github.com/Rana-NST-RU" target="_blank" rel="noreferrer">github.com/Rana-NST-RU</a>
+          <a href="https://github.com/shivam-mishra-music" target="_blank" rel="noreferrer">github.com/shivam-mishra-music</a>
         </div>
       </div>
 
