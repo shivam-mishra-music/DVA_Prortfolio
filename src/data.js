@@ -20,7 +20,7 @@ const projects = [
   {
     name: "FIFA Dashboard",
     description: "Interactive Tableau dashboard exploring FIFA player and team statistics. Visualizes player performance metrics, team comparisons, regional distributions, and key insights across tournaments to support data-driven football analytics.",
-    image: `${base}Fraud_detection.png`,
+    image: `${base}Fifa_dashboard.png`,
     tags: ["Tableau", "Data Visualization", "Sports Analytics"],
     github: "https://github.com/shivam-mishra-music",
     live: "https://public.tableau.com/app/profile/shivam.mishra3999/viz/dva-tableau/Dashboard1"
