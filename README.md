@@ -12,7 +12,7 @@ A dynamic, GitHub-style portfolio website showcasing my work as a Data Visualiza
 
 ## Technologies Used
 
-- **Frontend**: React 19, Vanilla CSS
+- **Frontend**:  React 19, Vanilla CSS
 - **Build Tool**: Vite
 - **Deployment**: GitHub Pages
 
